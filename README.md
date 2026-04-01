@@ -123,8 +123,8 @@ r3-de/
 ### Local Setup
 
 ```bash
-git clone https://github.com/your-repo/r3-de.git
-cd r3-de
+git clone 'https://github.com/SakaethRam/Agentic-R3-DE.git'
+cd agentic-r3-de
 
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
