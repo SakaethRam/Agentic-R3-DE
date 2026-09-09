@@ -2,7 +2,7 @@
 
 R³-DE is a multi-layer Natural Language Understanding (NLU) pipeline that transforms raw text or web-scraped content into structured, training-ready datasets. It extracts semantic, causal, and probabilistic signals from unstructured language and produces deterministic outputs suitable for machine learning, analytics, and safety-critical systems.
 
-#### Visit R3 | DE Official Page: [R3 | DE](https://apify.com/gunmetal/r3-de)
+>Visit R3 | DE Official Page: [R3 | DE](https://apify.com/gunmetal/r3-de)
 
 <img width="1536" height="1024" alt="R3DE_details reviews" src="https://github.com/user-attachments/assets/59dad310-cb23-459f-b819-5957d0855b5a" />
 
